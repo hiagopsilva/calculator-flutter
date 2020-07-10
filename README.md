@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Calculator App
+> Calculator App with Flutter
 
 ![calculator-app](https://user-images.githubusercontent.com/47197695/87175397-f93f6180-c2ae-11ea-8691-562480e14fc3.PNG)
 
