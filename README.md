@@ -1,16 +1,36 @@
-# calculator
+<h1 align="center">Calculator 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/hiagopsilva/tic-tac-toe#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/hiagopsilva/tic-tac-toe/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/hiagopsilva/tic-tac-toe/blob/master/LICENSE" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/github/license/hiagopsilva/Tic Tac Toe with Electron" />
+  </a>
+</p>
 
-A new Flutter project.
+> Calculator App
 
-## Getting Started
+![calculator-app](https://user-images.githubusercontent.com/47197695/87175397-f93f6180-c2ae-11ea-8691-562480e14fc3.PNG)
 
-This project is a starting point for a Flutter application.
+## Dependencies 
+ * Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+👤 **Hiago Prates**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Github: [@hiagopsilva](https://github.com/hiagopsilva)
+* LinkedIn: [Hiago Prates](https://linkedin.com/in/hiago-prates-04902b132\/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Hiago Prates](https://github.com/hiagopsilva).<br />
+This project is [ISC](https://github.com/hiagopsilva/tic-tac-toe/blob/master/LICENSE) licensed.
